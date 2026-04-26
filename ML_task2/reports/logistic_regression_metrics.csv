@@ -1,0 +1,2 @@
+Model,ROC-AUC,Avg Precision,Precision,Recall,F1-Score,Accuracy,CV AUC Mean,CV AUC Std,Train Time (s),Threshold
+Logistic Regression,0.8742,0.9357,0.9003,0.7669,0.8283,0.779,0.8842,0.0191,9.76,0.5

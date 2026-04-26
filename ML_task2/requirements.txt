@@ -1,0 +1,20 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# CodeAlpha — Credit Scoring Model
+# requirements.txt
+#
+# Only lightweight, pure-Python / C-extension libraries are used.
+# Total installed size is well under 100 MB, satisfying the GitHub file
+# size policy and making the environment fast to set up on any machine.
+#
+# Install:  pip install -r requirements.txt
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Core data manipulation
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+
+# Machine learning (includes all sub-modules: metrics, pipeline, ensemble, etc.)
+scikit-learn>=1.3,<2.0
+
+# Model serialisation — part of the scipy ecosystem, tiny footprint
+joblib>=1.3,<2.0

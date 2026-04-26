@@ -1,0 +1,2 @@
+Model,ROC-AUC,Avg Precision,Precision,Recall,F1-Score,Accuracy,CV AUC Mean,CV AUC Std,Train Time (s),Threshold
+Random Forest,0.8639,0.93,0.8592,0.8604,0.8598,0.805,0.8696,0.0188,65.1,0.5
