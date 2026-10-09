@@ -1,6 +1,6 @@
 # CodeAlpha_Credit_Scoring_Model
 
-> **CodeAlpha Machine Learning Internship — Task 3**
+> **CodeAlpha Machine Learning Internship**
 > Predict an individual's creditworthiness from financial history using a fully modular, lightweight Python ML pipeline.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)

@@ -1,6 +1,6 @@
 # CodeAlpha_Disease_Prediction
 
-> **CodeAlpha Machine Learning Internship — Task 3**
+> **CodeAlpha Machine Learning Internship — Task 4**
 > Predict the possibility of breast cancer (Benign / Malignant) from patient diagnostic measurements using an end-to-end modular ML pipeline.
 
 ---
